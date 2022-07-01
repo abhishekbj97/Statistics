@@ -19,3 +19,12 @@ sns.load_dataset('tips') using seaborn library for visualization
 4. Counting techniqe using countplot
 
 5. Finally Percentile for 25 and 75 quartile with numerical data 
+
+
+File Statistics2 
+ 
+ 1. Z-test
+ 
+ 2. T-test
+ 
+ 3. P-value and Hypotheiss testing
